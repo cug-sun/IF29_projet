@@ -8,3 +8,4 @@
 *.py[cod]
 *.DS_Store
 .vscode
+*.pkl
